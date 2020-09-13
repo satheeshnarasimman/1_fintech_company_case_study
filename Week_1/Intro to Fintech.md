@@ -1,22 +1,26 @@
 Week 1- Intro to Fintech
  
 Domain chosen: Investment management
-Chosen company: Citadel LLC
  
 ## Overview and Origin
 * Name of company
+
 Citadel LLC
  
 * When was the company incorporated?
+
 1990
  
 * Who are the founders of the company?
+
 Kenneth Griffin
  
 * How did the idea for the company (or project) come about?
+
 The founder, Kenneth Griffin, started trading securities as a 19-year old in 1987, with the help of a satellite dish and fax machine at Harvard University. Kenneth was offered a job at a hedge fund firm Glenwood Partners, by the co-founder Frank Meyer. One year later, Frank himself provided the capital to establish Citadel.
  
 * How is the company funded? How much funding have they received?
+
 Citadel’s source of revenue comes from the clients, whose money the company manages and receives a percentage of the profits. In addition, they reinvest their own revenue.
 The company was started with $4.6 M capital. Currently, the company’s assets under management is $35 B.
  
@@ -74,6 +78,7 @@ How are the technologies deployed.
 ## Landscape:
  
 * What domain of the financial industry is the company in?
+
 Investment Management, Risk Management
  
 * What have been the major trends and innovations of this domain over the last 5-10 years?
