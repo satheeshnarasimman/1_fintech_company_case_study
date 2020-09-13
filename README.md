@@ -14,7 +14,7 @@ Citadel LLC
 Kenneth Griffin
 
 * How did the idea for the company (or project) come about?
-The founder, Kenneth Griffin, started trading securities as a 19-year old in 1987, with the help of a satellite dish and fax machine at Harvard University. Kenneth was offered a job at a hedge fund firm Glenwood Partners, by the co-founder Frank Meyer. One year later, Frank himself provided the capital to establish Citadel.
+The founder, Kenneth Griffin, started trading securities as a 19-year old in 1987, with the help of a satellite dish and fax machine. Kenneth was spotted by the co-founder of hedge fund firm Glenwood Partners, Frank Meyer, and paved the way to establish Citadel.
 
 * How is the company funded? How much funding have they received?
 Citadel’s source of revenue comes from the clients, whose money the company manages and receives a percentage of the profits. In addition, they reinvest their own revenue.
