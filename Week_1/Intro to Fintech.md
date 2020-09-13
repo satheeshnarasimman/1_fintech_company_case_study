@@ -3,37 +3,37 @@ Week 1- Intro to Fintech
 Domain chosen: Investment management
  
 ## Overview and Origin
-* Name of company
+Name of company
 
-Citadel LLC
+- Citadel LLC
  
-* When was the company incorporated?
+When was the company incorporated?
 
-1990
+- 1990
  
-* Who are the founders of the company?
+Who are the founders of the company?
 
-Kenneth Griffin
+- Kenneth Griffin
  
-* How did the idea for the company (or project) come about?
+How did the idea for the company (or project) come about?
 
-The founder, Kenneth Griffin, started trading securities as a 19-year old in 1987, with the help of a satellite dish and fax machine at Harvard University. Kenneth was offered a job at a hedge fund firm Glenwood Partners, by the co-founder Frank Meyer. One year later, Frank himself provided the capital to establish Citadel.
+- The founder, Kenneth Griffin, started trading securities as a 19-year old in 1987, with the help of a satellite dish and fax machine at Harvard University. Kenneth was offered a job at a hedge fund firm Glenwood Partners, by the co-founder Frank Meyer. One year later, Frank himself provided the capital to establish Citadel.
  
-* How is the company funded? How much funding have they received?
+How is the company funded? How much funding have they received?
 
-Citadel’s source of revenue comes from the clients, whose money the company manages and receives a percentage of the profits. In addition, they reinvest their own revenue.
+- Citadel’s source of revenue comes from the clients, whose money the company manages and receives a percentage of the profits. In addition, they reinvest their own revenue.
 The company was started with $4.6 M capital. Currently, the company’s assets under management is $35 B.
  
 ## Business Activities:
-* What specific financial problem is the company or project trying to solve?
+What specific financial problem is the company or project trying to solve?
 
-Citadel has 2 subsidiaries- Citadel Asset management and Citadel Securities.
+- Citadel has 2 subsidiaries- Citadel Asset management and Citadel Securities.
 The asset management division formulates and executes investment strategies.
 The securities division is a market maker for equities, options and fixed income. 
  
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Who is the company's intended customer?  Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Endowment funds, Public pension funds, Sovereign wealth funds and High net-worth individuals are served by asset management. While Asset managers, broker- dealer clients, government agencies are catered to by the securities unit.
+- Endowment funds, Public pension funds, Sovereign wealth funds and High net-worth individuals are served by asset management. While Asset managers, broker- dealer clients, government agencies are catered to by the securities unit.
  
 The following items differentiate Citadel from its competitors.
 - Top market maker in the New York Stock Exchange (NYSE)
@@ -41,7 +41,7 @@ The following items differentiate Citadel from its competitors.
 - “Only dealer to offer to offer a 100% firm executable stream for both active and off-the run US Treasuries on Bloomberg and Tradeweb”.
 - World’s largest Exchange Traded Funds (ETF) trader
  
-* Which technologies are they currently using, and how are they implementing them?
+Which technologies are they currently using, and how are they implementing them?
 
 Technologies used by Citadel:
 - Algorithmic trading
@@ -77,11 +77,11 @@ How are the technologies deployed.
  
 ## Landscape:
  
-* What domain of the financial industry is the company in?
+What domain of the financial industry is the company in?
 
-Investment Management, Risk Management
+- Investment Management, Risk Management
  
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+What have been the major trends and innovations of this domain over the last 5-10 years?
 Investment performance is inextricably linked with the performance of the economy. Thus when considering investment management, on a broader scope, the economy also needs to be accounted for. The following were some of the developments in the domain since 2010.
  
 - Since the 2nd World War, the 2010s decade produced the 4th highest return of US Financial assets, with the stocks annually averaging 13.2% in comparison with the overall average, while the annual return on bonds was 7.4%. 
@@ -116,7 +116,7 @@ Investment performance is inextricably linked with the performance of the econom
 
 -  Trading evolved into smartphone with the emergence of RobinHood app, Stash, etc.
  
-* What are the other major companies in this domain?
+What are the other major companies in this domain?
 
 -  Bridgewater Associates
 
@@ -134,7 +134,7 @@ Investment performance is inextricably linked with the performance of the econom
  
 ## Results
  
-* What has been the business impact of this company so far?
+What has been the business impact of this company so far?
 -  22% percent share of equity options in the US. 
 
 - 39% of the retail equity volume (top position in the US wholesale market) is through Citadel.
@@ -150,7 +150,7 @@ Investment performance is inextricably linked with the performance of the econom
 - Acts as a specialist or market maker in more than 3,000 U.S. listed-options names, representing 99% of traded volume.
 (Source: Citadel LLC)
  
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
  
 - Sharpe Ratio – “Measures return/risk. Return is the numerator and is defined as the incremental average return of an investment over the risk free rate. Rate is the denominator and is defined as the standard deviation of the investment returns”.
  
@@ -195,7 +195,7 @@ Investment performance is inextricably linked with the performance of the econom
 Almost all of the information for the above metrics were not found in the company’s 2019 Financial Statement. 
 From the publicly available information, the fund’s cumulative return (according to Forbes) was 19.4% in 2019, which completely crushed the industry average of 7% in 2019 (Source: Marketwatch). Thus the performance of the company was exceptional.
  
-* How is your company performing relative to competitors in the same domain?
+How is your company performing relative to competitors in the same domain?
 
 In 2019, the fund outperformed its direct rival, Point 72 Asset Management, that generated a 16% return compared to the former’s 19.4%. (Source: Business Insider)
  
@@ -211,19 +211,19 @@ Cinctive Capital- 7%
  
 ## Recommendations
  
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 I believe, the biggest financial asset the company has not tapped into is Cryptocurrency. Citadel, being one of the most powerful hedge funds, would dominate the game and gobble the other players.
  
-* Why do you think that offering this product or service would benefit the company?
+Why do you think that offering this product or service would benefit the company?
 
 The value of Bitcoin is predicted for a promising growth in the forthcoming years. With its cutting edge technology and brilliant traders, Citadel will generate superior returns on this asset.
  
-* What technologies would this additional product or service utilize?
+What technologies would this additional product or service utilize?
 
 Bitcoin/ Cryptocurrency wallet
  
-* Why are these technologies appropriate for your solution?
+Why are these technologies appropriate for your solution?
 
 Cryptocurrencies cannot be stored without an appropriate wallet.
  
